@@ -53,3 +53,5 @@ Ce projet utilise les technologies suivantes :
 Pour tester ou développer ce projet localement, suivez les étapes ci-dessous :
 
 - Un compte Stripe pour la gestion des paiements.
+
+Voici le lien de la maquette figma : https://www.figma.com/design/0HHcexxEZCpC2JkMcQhr9U/Untitled?node-id=0-1&node-type=canvas&t=UZhepLocO30ySrUs-0
